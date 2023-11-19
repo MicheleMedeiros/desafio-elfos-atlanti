@@ -90,3 +90,4 @@ NOME DOS INTEGRANTES DA EQUIPE:
 4. Lucas Seixas
 5. Tiago Nascimento
 6. Tiago Matos
+7. Vivian Oliveira (Desde do dia que criamos o grupo, não se fez presente na dinâmica. Entramos em contato com ela pelo telegram, porém, não tivemos retorno.)

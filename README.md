@@ -79,6 +79,6 @@ A equipe em conjunto, decimos seguir o seguinte fluxo de desenvolvimento do desa
 Todos os integrantes, com excessão da Vivian Oliveira, contribuiu com o projeto. 
 Realizamos uma reunião online com todos dia 15 de novembro às 20h pelo discord para compreender o desafio em conjunto
 e desenvolver a codificação com um integrante compartilhando a tela enquato os demais participaram dando suas sugestões e ideias de resolução. 
-Foi um trabalho em equipe onde todos tiveram a oportunidade de participar do processo juntos do inicio ou fim do desafio. 
-Com o termino da resolução do desafio, apenas um integrante, Tiago, subiu a codificação para o repositório. 
+Foi um trabalho em equipe onde todos tiveram a oportunidade de participar do processo juntos do início ao fim do desafio. 
+Com o término da resolução do desafio, apenas um integrante, Tiago, subiu a codificação para o repositório. 
 Para tornar nossa comunicação mais eficaz criamos um grupo com todos os integrantes e realizamos alinhamentos por lá também! :)

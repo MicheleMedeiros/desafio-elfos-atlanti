@@ -81,4 +81,12 @@ Realizamos uma reunião online com todos dia 15 de novembro às 20h pelo discord
 e desenvolver a codificação. Um integrante da equipe compartilhou a tela enquato os demais participaram dando suas sugestões e ideias de resolução. 
 Foi um trabalho em equipe onde todos tiveram a oportunidade de participar do processo juntos do início ao fim do desafio. 
 Com o término da resolução do desafio, apenas um integrante, Tiago, subiu a codificação para o repositório. 
-Para tornar nossa comunicação mais eficaz criamos um grupo com todos os integrantes e realizamos alinhamentos por lá também! :)
+Para tornar nossa comunicação mais eficaz criamos um grupo com todos os integrantes e realizamos alinhamentos por lá também!
+
+NOME DOS INTEGRANTES DA EQUIPE:
+1. Michele Medeiros
+2. Pedro Martins
+3. Breno Saraiva
+4. Lucas Seixas
+5. Tiago Nascimento
+6. Tiago Matos
